@@ -1,6 +1,3 @@
-
-
-````
 # 📊 Universal Spreadsheet Column Filter / Filtro Universal de Colunas
 
 Select your preferred language / Selecione o seu idioma:
